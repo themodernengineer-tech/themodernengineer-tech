@@ -102,10 +102,10 @@ Every entry represents an actual topic studied and documented as part of my jour
 
 | **#** | **Date** | **Domain** | **Topic** | **What I Studied** | **Artifact** |
 |:---:|:---:|---|---|---|:---:|
-| 001 | 2026-08-27 | ⚡ AI Infrastructure | **CPU Architecture & Memory Hierarchy** | CPU cores, cache, RAM, memory hierarchy, data access, and system performance. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/CPU-Architecture-and-Memory-Hierarchy.pdf) |
+| 001 | 2026-08-27 | ⚡ AI Infrastructure | **CPU Architecture & Memory Hierarchy** | CPU cores, cache, RAM, memory hierarchy, data access, and system performance. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/CPU-Architecture-and-Memory-Hierarchy.pdf) |
 | 002 | 2026-09-08 | 🧠 Language Models | **Transformers: Architecture & Self-Attention** | Self-attention, multi-head attention, positional encoding, encoder-decoder architecture, and Transformer internals. | [📘 Notes](https://github.com/themodernengineer-tech/LanguageForge/blob/main/Docs/Transformers/transformers.pdf) |
-| 003 | 2026-09-09 | ⚡ AI Infrastructure | **NVIDIA Infrastructure: CUDA & TensorRT** | GPU acceleration, the CUDA ecosystem, TensorRT, and optimized AI inference. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/NVIDIA-Infrastructure-CUDA-and-TensorRT-Overview.pdf) |
-| 004 | 2026-09-09 | ⚡ AI Infrastructure | **AI Infrastructure Fundamentals** | Compute, storage, networking, software stacks, and operations behind modern AI workloads. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/AI-Infrastructure-Fundamentals.pdf) |
+| 003 | 2026-09-09 | ⚡ AI Infrastructure | **NVIDIA Infrastructure: CUDA & TensorRT** | GPU acceleration, the CUDA ecosystem, TensorRT, and optimized AI inference. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/cuda_tensor.pdf) |
+| 004 | 2026-09-09 | ⚡ AI Infrastructure | **AI Infrastructure Fundamentals** | Compute, storage, networking, software stacks, and operations behind modern AI workloads. | [📘 Notes](https://github.com/themodernengineer-tech/InfraNerve/blob/main/Docs/03-Computer-Architecture/ai_infra_blueprint.pdf) |
 
 <div align="center">
 
