@@ -1,23 +1,47 @@
 <div align="center">
 
-# 👋 Kartik Saroop
+<br>
 
-### Building toward AI Platform Engineering
+# ⚡ THE MODERN ENGINEER
 
-**AI Systems • AI Infrastructure • Cloud • Kubernetes • MLOps • Platform Engineering**
+### `KARTIK SAROOP // ENGINEERING INTELLIGENT SYSTEMS`
 
 <br>
 
-> **Learning how intelligent models become reliable production systems.**
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║     AI MODELS  ──►  ACCELERATED COMPUTE  ──►  INFRASTRUCTURE       ║
+║                                                    │                 ║
+║                                                    ▼                 ║
+║     PRODUCTION AI  ◄──  MLOps / OPS  ◄──  CLOUD & PLATFORMS        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### **Building toward AI Platform Engineering**
+
+`AI Systems` · `AI Infrastructure` · `Cloud` · `Kubernetes` · `MLOps` · `Platform Engineering`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-themodernengineer--tech-181717?style=flat-square&logo=github)](https://github.com/themodernengineer-tech)
-[![DailyEpoch](https://img.shields.io/badge/DailyEpoch-Learning%20in%20Public-2ea44f?style=flat-square&logo=github)](https://github.com/themodernengineer-tech/DailyEpoch)
+> ### **Learning how intelligent models become reliable production systems.**
 
 <br>
 
-`SYSTEM STATUS // 🟢 ACTIVE LEARNING // AI → INFRASTRUCTURE → PLATFORMS → PRODUCTION`
+[![GitHub](https://img.shields.io/badge/GitHub-themodernengineer--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themodernengineer-tech)
+[![DailyEpoch](https://img.shields.io/badge/DailyEpoch-Engineering_Logbook-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themodernengineer-tech/DailyEpoch)
+[![Instagram](https://img.shields.io/badge/Instagram-@themodernengineer.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themodernengineer.tech/?utm_source=chatgpt.com)
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVE_LEARNING-2ea44f?style=flat-square)
+![Direction](https://img.shields.io/badge/DIRECTION-AI_PLATFORM_ENGINEERING-326CE5?style=flat-square)
+![Mode](https://img.shields.io/badge/MODE-BUILDING_IN_PUBLIC-8A2BE2?style=flat-square)
+
+<br>
+
+### `MODEL → MACHINE → INFRASTRUCTURE → PLATFORM → PRODUCTION`
 
 </div>
 
@@ -256,87 +280,173 @@ Each repository explores one part of a larger engineering system.
 
 ---
 
-# 🔄 Engineering Perspective
+# ⚙️ How Production AI Comes Together
+
+> **A model is only one component of a production AI system.**
+
+The engineering challenge is connecting model intelligence with compute, infrastructure, orchestration, serving, observability, and reliability.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 01 — Intelligence
+
+**What should the system learn?**
+
+`ML` · `DL` · `Transformers`
+
+`LLMs` · `Computer Vision`
+
+`RAG` · `Generative AI`
+
+Models define the intelligence layer, but they also create requirements for compute, memory, storage, latency, and throughput.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ 02 — Compute
+
+**Where does the workload execute?**
+
+`CPU` · `GPU`
+
+`CUDA` · `TensorRT`
+
+`Memory` · `Accelerators`
+
+Compute architecture determines how efficiently training and inference workloads can execute.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 03 — Infrastructure
+
+**What keeps compute supplied?**
+
+`Linux` · `Storage`
+
+`Networking` · `RDMA`
+
+`Distributed Systems`
+
+Infrastructure moves data, connects accelerators, manages resources, and provides the foundation beneath AI workloads.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 📦 04 — Platform
+
+**How are workloads managed?**
+
+`Docker` · `Kubernetes`
+
+`Scheduling` · `Autoscaling`
+
+`Resource Management`
+
+The platform layer packages, schedules, isolates, and scales AI workloads across infrastructure.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ 05 — Cloud & Delivery
+
+**How does the system reach production?**
+
+`AWS` · `Terraform`
+
+`CI/CD` · `APIs`
+
+`Model Serving`
+
+Cloud and delivery systems turn infrastructure and models into deployable services.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📡 06 — Operations
+
+**How does the system stay reliable?**
+
+`Monitoring` · `Logging`
+
+`Observability` · `MLOps`
+
+`Performance` · `Reliability`
+
+Production systems must be measurable, diagnosable, scalable, and recoverable.
+
+</td>
+</tr>
+</table>
+
+### The complete path
+
+```text
+┌─────────────┐
+│    MODEL    │
+│ ML • LLMs   │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   COMPUTE   │
+│ CPU • GPU   │
+│ CUDA        │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│    INFRA    │
+│ Linux       │
+│ Network     │
+│ Storage     │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│  PLATFORM   │
+│ Containers  │
+│ Kubernetes  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│   SERVING   │
+│ APIs        │
+│ Inference   │
+│ Autoscaling │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────┐
+│ OPERATIONS  │
+│ Monitor     │
+│ Observe     │
+│ Optimize    │
+└──────┬──────┘
+       │
+       ▼
+┌──────────────────────┐
+│ PRODUCTION AI SYSTEM │
+└──────────────────────┘
+```
 
 <div align="center">
 
-```text
-                    INTELLIGENCE
-                         │
-                         ▼
-                ML • DL • LLMs • GenAI
-                         │
-                         ▼
-                      COMPUTE
-                         │
-                         ▼
-                 CPU • GPU • CUDA
-                         │
-                         ▼
-                   INFRASTRUCTURE
-                         │
-                         ▼
-          Linux • Storage • Networking
-                         │
-                         ▼
-                   ORCHESTRATION
-                         │
-                         ▼
-             Docker • Kubernetes
-                         │
-                         ▼
-                       CLOUD
-                         │
-                         ▼
-                 AWS • Terraform
-                         │
-                         ▼
-                    OPERATIONS
-                         │
-                         ▼
-          CI/CD • MLOps • Observability
-                         │
-                         ▼
-               PRODUCTION AI SYSTEMS
-                         │
-                         ▼
-              AI PLATFORM ENGINEERING
-```
+### A production AI engineer needs to reason across the boundaries.
 
-### **The model is important. The system that makes the model usable is equally important.**
+**Model ↔ Compute ↔ Infrastructure ↔ Platform ↔ Serving ↔ Operations**
 
 </div>
-
----
-
-# 📈 Learning in Public
-
-My GitHub is intended to show the progression rather than only the finished result.
-
-```text
-        STUDY
-          │
-          ▼
-       DOCUMENT
-          │
-          ▼
-      EXPERIMENT
-          │
-          ▼
-        BUILD
-          │
-          ▼
-       OPERATE
-          │
-          ▼
-       IMPROVE
-          │
-          └──────────────► REPEAT
-```
-
-The objective is to progressively turn:
-
-**📖 Knowledge → 📘 Documentation → 💻 Experiments → 🧪 Labs → 🏗️ Projects → 🚀 Engineering Capability**
 
 ---
 
@@ -351,6 +461,7 @@ The objective is to progressively turn:
 Understanding the compute, GPU, networking, storage, and distributed systems beneath AI.
 
 </td>
+
 <td align="center" width="33%">
 
 ### 🏗️ AI Platforms
@@ -358,6 +469,7 @@ Understanding the compute, GPU, networking, storage, and distributed systems ben
 Learning how containers, Kubernetes, cloud infrastructure, and MLOps turn models into platforms.
 
 </td>
+
 <td align="center" width="33%">
 
 ### 🚀 Production AI
@@ -368,23 +480,37 @@ Developing the systems mindset required to deploy, observe, troubleshoot, scale,
 </tr>
 </table>
 
+<div align="center">
+
+### `UNDERSTAND → BUILD → DEPLOY → OBSERVE → OPTIMIZE`
+
+</div>
+
 ---
 
 # 🤝 Connect
 
 <div align="center">
 
-I'm documenting the journey openly as I learn, experiment, and build.
+### Let's Connect
+
+I'm documenting the journey openly as I learn, experiment, and build across the AI engineering stack.
 
 If you're working or learning across **AI Infrastructure, AI Platforms, Cloud, Kubernetes, MLOps, or Production AI**, feel free to explore the repositories and follow the progression.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-themodernengineer--tech-181717?style=for-the-badge&logo=github)](https://github.com/themodernengineer-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-themodernengineer--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themodernengineer-tech)
+[![Instagram](https://img.shields.io/badge/Instagram-@themodernengineer.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themodernengineer.tech/?utm_source=chatgpt.com)
+[![DailyEpoch](https://img.shields.io/badge/DailyEpoch-Follow_the_Journey-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themodernengineer-tech/DailyEpoch)
 
 <br><br>
 
 ### **Learn the model. Understand the machine. Engineer the system.**
+
+`AI → COMPUTE → INFRASTRUCTURE → PLATFORM → PRODUCTION`
+
+<br>
 
 > *Every commit adds another layer to the engineering stack.*
 
