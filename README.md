@@ -172,7 +172,7 @@ Image processing, CNNs, visual representation learning, and vision systems.
 
 NLP, attention, Transformers, language-model architecture, and LLM internals.
 
-#### [✨ GenActa](https://github.com/themodernengineer-tech/GenActa))
+#### [✨ GenActa](https://github.com/themodernengineer-tech/GenActa)
 **Generative AI & Agentic AI**
 
 Generative models, modern GenAI systems, experimentation, and applications.
