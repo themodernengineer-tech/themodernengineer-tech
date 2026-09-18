@@ -152,7 +152,7 @@ Every entry represents an actual topic studied and documented as part of my jour
 
 ### 🧠 AI & Model Engineering
 
-#### [⚙️ GradientPace](https://github.com/themodernengineer-tech/GradientPace)
+#### [⚙️ GradientSpace](https://github.com/themodernengineer-tech/GradientSpace)
 **Machine Learning**
 
 Algorithms, mathematical foundations, model training, evaluation, and ML experimentation.
@@ -172,8 +172,8 @@ Image processing, CNNs, visual representation learning, and vision systems.
 
 NLP, attention, Transformers, language-model architecture, and LLM internals.
 
-#### [✨ GenesisAI](https://github.com/themodernengineer-tech/GenesisAI)
-**Generative AI**
+#### [✨ GenActa](https://github.com/themodernengineer-tech/GenActa))
+**Generative AI & Agentic AI**
 
 Generative models, modern GenAI systems, experimentation, and applications.
 
