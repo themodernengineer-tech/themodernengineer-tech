@@ -30,80 +30,8 @@ I use these repositories to turn what I study into **documentation, implementati
 
 > The repositories represent an active learning and engineering journey—not a claim of equal proficiency across every technology.
 
----
 
-## 🎯 Engineering Direction
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ AI Infrastructure Engineering
-
-Understanding the systems that provide compute, memory, networking, storage, and runtime infrastructure for AI workloads.
-
-`GPU Architecture`  
-`CUDA`  
-`AI Inference`  
-`Distributed Computing`  
-`Linux`  
-`Networking`  
-`Storage`  
-`Performance Engineering`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ AI Platform Engineering
-
-Understanding how infrastructure becomes a usable, scalable, observable platform for training and serving AI systems.
-
-`Containers`  
-`Kubernetes`  
-`Cloud Infrastructure`  
-`MLOps`  
-`Model Serving`  
-`Observability`  
-`Automation`  
-`Reliability`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```text
-                 AI WORKLOAD
-                     │
-                     ▼
-               MODEL RUNTIME
-                     │
-                     ▼
-              ACCELERATORS
-                GPU / CUDA
-                     │
-                     ▼
-             SYSTEMS LAYER
-       Linux • Memory • Network
-                     │
-                     ▼
-             INFRASTRUCTURE
-      Compute • Storage • Network
-                     │
-                     ▼
-                PLATFORM
-    Containers • Kubernetes • Cloud
-                     │
-                     ▼
-               OPERATIONS
-    MLOps • Observability • Reliability
-                     │
-                     ▼
-           PRODUCTION AI SYSTEM
-```
-
-</div>
 
 ---
 
@@ -341,56 +269,37 @@ Technologies appear here as they become part of my learning, experiments, and en
 
 # 📓 Daily Engineering Log
 
-I maintain a chronological record of what I study, investigate, implement, and build in **DailyEpoch**.
+**DailyEpoch** is the chronological activity layer of this portfolio.
 
-```text
-STUDY
-  │
-  ▼
-UNDERSTAND
-  │
-  ▼
-IMPLEMENT / EXPERIMENT
-  │
-  ▼
-DOCUMENT
-  │
-  ▼
-LOG THE EPOCH
-```
+Rather than reposting technical content, it records **what I worked on, when I worked on it, and where the resulting artifact lives**.
 
 <div align="center">
 
-### **[Explore DailyEpoch →](https://github.com/themodernengineer-tech/DailyEpoch)**
+### `RECENT LEARNING → DIRECT ARTIFACTS`
+
+</div>
+
+| Date | Domain | Engineering Topic | Evidence |
+|:---:|---|---|:---:|
+| `2026-10-06` | 🤖 Agentic AI | Prompt Templates & AI Meeting Preparation Assistant | [View →](https://github.com/themodernengineer-tech/DailyEpoch) |
+| `2026-10-05` | 🤖 Agentic AI | AI Study Assistant | [View →](https://github.com/themodernengineer-tech/DailyEpoch) |
+| `2026-10-05` | 🔗 LangChain | Models & Gemini Integration | [View →](https://github.com/themodernengineer-tech/DailyEpoch) |
+| `2026-09-30` | 🤖 Agentic AI | Agentic AI Fundamentals & AI Agents | [View →](https://github.com/themodernengineer-tech/DailyEpoch) |
+| `2026-09-23` | ☁️ Cloud & AI | AWS Managed AI Services | [View →](https://github.com/themodernengineer-tech/DailyEpoch) |
+
+<div align="center">
+
+**Documentation · Code · Experiments · Benchmarks · Projects**
+
+<br>
+
+### **[Explore the complete DailyEpoch logbook →](https://github.com/themodernengineer-tech/DailyEpoch)**
 
 </div>
 
 ---
 
-# 🧭 Engineering Philosophy
 
-I am building depth progressively rather than treating technologies as isolated checklist items.
-
-```text
-UNDERSTAND THE WORKLOAD
-          │
-          ▼
-UNDERSTAND THE COMPUTE
-          │
-          ▼
-UNDERSTAND THE SYSTEM
-          │
-          ▼
-BUILD THE INFRASTRUCTURE
-          │
-          ▼
-BUILD THE PLATFORM
-          │
-          ▼
-MEASURE AND OPERATE IT
-```
-
-The long-term goal is to engineer infrastructure and platforms that make AI workloads **performant, scalable, observable, reliable, and easier to operate**.
 
 ---
 
