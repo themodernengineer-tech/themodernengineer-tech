@@ -18,48 +18,74 @@ I'm learning to engineer the **compute, systems, infrastructure, and platforms**
 
 ---
 
-## 🏆 Featured Engineering Work
 
-**Selected learning and engineering artifacts**—what I studied, implemented, or documented, rather than a second directory of repositories. The links below currently lead to the relevant repositories; direct artifact links will replace them as their exact paths are published.
+## ⚡ Featured Engineering Work
+
+<p align="center">
+  <sub>Selected implementations, experiments, and technical explorations — from AI models to the infrastructure that supports them.</sub>
+</p>
 
 <table>
-<tr>
-<td width="25%" valign="top" align="center">
-<br>
-<img src="https://cdn.simpleicons.org/nvidia/22D3EE" width="54" height="54" alt="GPU compute" />
-<br><br><b>Parallel Computing Fundamentals</b><br><sub>AI Infrastructure · Technical Study</sub>
-<br><br><sub>Parallel execution concepts and their role in accelerating AI workloads.</sub>
-<br><br><a href="https://github.com/themodernengineer-tech/InfraNerve"><img src="https://img.shields.io/badge/VIEW_WORK-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=062538" alt="View AI infrastructure work" /></a>
-<br><br>
-</td>
-<td width="25%" valign="top" align="center">
-<br>
-<img src="https://cdn.simpleicons.org/langchain/22D3EE" width="54" height="54" alt="LangChain" />
-<br><br><b>Prompt Templates & AI Assistant</b><br><sub>LangChain · Code / Application Study</sub>
-<br><br><sub>Prompt construction and an AI meeting-preparation assistant learning exercise.</sub>
-<br><br><a href="https://github.com/themodernengineer-tech/GenActa"><img src="https://img.shields.io/badge/VIEW_WORK-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=062538" alt="View agentic AI work" /></a>
-<br><br>
-</td>
-<td width="25%" valign="top" align="center">
-<br>
-<img src="https://cdn.simpleicons.org/huggingface/22D3EE" width="54" height="54" alt="Language models" />
-<br><br><b>Fine-Tuning, PEFT & LoRA</b><br><sub>LLM Engineering · Technical Study</sub>
-<br><br><sub>Understanding adaptation methods and their trade-offs for language models.</sub>
-<br><br><a href="https://github.com/themodernengineer-tech/LanguageForge"><img src="https://img.shields.io/badge/VIEW_WORK-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=062538" alt="View language model work" /></a>
-<br><br>
-</td>
-<td width="25%" valign="top" align="center">
-<br>
-<img src="https://cdn.simpleicons.org/amazonwebservices/22D3EE" width="54" height="54" alt="AWS" />
-<br><br><b>AWS Managed AI Services</b><br><sub>Cloud & AI · Technical Study</sub>
-<br><br><sub>Examining managed cloud AI services and the infrastructure behind them.</sub>
-<br><br><a href="https://github.com/themodernengineer-tech/CloudAtlas"><img src="https://img.shields.io/badge/VIEW_WORK-0891B2?style=for-the-badge&logo=github&logoColor=white&labelColor=062538" alt="View cloud work" /></a>
-<br><br>
-</td>
-</tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/themodernengineer-tech/InfraNerve">
+        <img src="https://img.shields.io/badge/GPU-SYSTEMS-00D9FF?style=for-the-badge&labelColor=061826" alt="GPU Systems" />
+      </a>
+      <br/><br/>
+      <strong>GPU Architecture &amp; Memory</strong>
+      <br/><br/>
+      <sub>Exploring GPU compute, memory hierarchy, and the systems foundations of AI workloads.</sub>
+      <br/><br/>
+      <a href="https://github.com/themodernengineer-tech/InfraNerve">
+        <img src="https://img.shields.io/badge/EXPLORE_WORK-061826?style=flat-square&logo=github&logoColor=00D9FF&labelColor=061826" alt="Explore GPU systems work"/>
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/themodernengineer-tech/LanguageForge">
+        <img src="https://img.shields.io/badge/LLM-ENGINEERING-00D9FF?style=for-the-badge&labelColor=061826" alt="LLM Engineering" />
+      </a>
+      <br/><br/>
+      <strong>LangChain Prompt Workflows</strong>
+      <br/><br/>
+      <sub>Hands-on exploration of prompt templates, model integration, and LLM application workflows.</sub>
+      <br/><br/>
+      <a href="https://github.com/themodernengineer-tech/LanguageForge">
+        <img src="https://img.shields.io/badge/EXPLORE_WORK-061826?style=flat-square&logo=github&logoColor=00D9FF&labelColor=061826" alt="Explore LLM engineering work"/>
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/themodernengineer-tech/CloudAtlas">
+        <img src="https://img.shields.io/badge/CLOUD-AI-00D9FF?style=for-the-badge&labelColor=061826" alt="Cloud AI" />
+      </a>
+      <br/><br/>
+      <strong>AWS Managed AI Services</strong>
+      <br/><br/>
+      <sub>Investigating managed AI services, cloud capabilities, and deployment-oriented workflows on AWS.</sub>
+      <br/><br/>
+      <a href="https://github.com/themodernengineer-tech/CloudAtlas">
+        <img src="https://img.shields.io/badge/EXPLORE_WORK-061826?style=flat-square&logo=github&logoColor=00D9FF&labelColor=061826" alt="Explore cloud AI work"/>
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/themodernengineer-tech/GenActa">
+        <img src="https://img.shields.io/badge/AGENTIC-AI-00D9FF?style=for-the-badge&labelColor=061826" alt="Agentic AI" />
+      </a>
+      <br/><br/>
+      <strong>AI Study Assistant</strong>
+      <br/><br/>
+      <sub>Exploring AI agent fundamentals through a study-assistant workflow and practical application concepts.</sub>
+      <br/><br/>
+      <a href="https://github.com/themodernengineer-tech/GenActa">
+        <img src="https://img.shields.io/badge/EXPLORE_WORK-061826?style=flat-square&logo=github&logoColor=00D9FF&labelColor=061826" alt="Explore agentic AI work"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-> **Evidence-first portfolio:** As projects mature, featured entries will include direct source-code links, architecture decisions, experiment methods, and measured results where available. The titles above reflect previously recorded learning topics, not claims of completed production systems.
+<p align="center">
+  <sub>Engineering in progress • Documented through code, experiments, and technical notes</sub>
+</p>
+
 
 ---
 
